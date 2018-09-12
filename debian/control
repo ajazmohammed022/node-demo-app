@@ -1,7 +1,7 @@
 Source: node-demo-app
 Section: unknown
 Priority: optional
-Maintainer: Ajaz Mohd <ajazmohammed022@gmail.com>
+Maintainer: ajazmohammed <ajazmohammed022@gmail.com>
 Standards-Version: 0.0.1
 
 Package: node-demo-app
